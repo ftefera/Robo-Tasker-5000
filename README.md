@@ -149,6 +149,6 @@ Your company is about to launch their newest product, the RoboTasker 5000 (RT500
 ### **Trello Link**
 https://trello.com/b/oWYx1hX6/robot-app
 
-[![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency?label=gem%20downloads)](https://rubygems.org/gems/jekyll-agency)
+
 
 
