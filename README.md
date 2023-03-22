@@ -123,7 +123,7 @@ Your company is about to launch their newest product, the RoboTasker 5000 (RT500
 ![SRG_ClassicChefSalad_95144_copy](https://user-images.githubusercontent.com/127354647/226792658-d6883f1b-bfcd-4b9e-b25f-6b4a33d312f5.jpg)
 
 
-## **User story's**
+## **User story's top 10 requirements**
 
 <img width="543" alt="Screen Shot 2023-03-21 at 10 07 34 PM" src="https://user-images.githubusercontent.com/127261045/226807400-af84374a-35d4-4d77-8bf3-5ef826324421.png">
 
