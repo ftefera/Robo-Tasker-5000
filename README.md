@@ -120,5 +120,21 @@ Your company is about to launch their newest product, the RoboTasker 5000 (RT500
 11.What kind of fruits do you want in your salad?
 
 
-<img width="379" alt="Screen Shot 2023-03-21 at 10 03 42 PM" src="https://user-images.githubusercontent.com/127261045/226806856-e8c15d75-6ac6-46ba-908d-8c2f5b8e822f.png">
+![SRG_ClassicChefSalad_95144_copy](https://user-images.githubusercontent.com/127354647/226792658-d6883f1b-bfcd-4b9e-b25f-6b4a33d312f5.jpg)
 
+
+## **User story's**
+
+<img width="543" alt="Screen Shot 2023-03-21 at 10 07 34 PM" src="https://user-images.githubusercontent.com/127261045/226807400-af84374a-35d4-4d77-8bf3-5ef826324421.png">
+
+
+<img width="526" alt="Screen Shot 2023-03-21 at 10 08 46 PM" src="https://user-images.githubusercontent.com/127261045/226807479-e580d8ca-979a-4075-8616-ced1fd426cdf.png">
+
+
+<img width="509" alt="Screen Shot 2023-03-21 at 10 09 31 PM" src="https://user-images.githubusercontent.com/127261045/226807556-ea4c6877-6016-42a5-90f8-c4ed98798a73.png">
+
+
+<img width="530" alt="Screen Shot 2023-03-21 at 10 10 10 PM" src="https://user-images.githubusercontent.com/127261045/226807648-4e9aa86a-2f0d-4b52-b762-f328159afa86.png">
+
+
+<img width="533" alt="Screen Shot 2023-03-21 at 10 11 05 PM" src="https://user-images.githubusercontent.com/127261045/226807790-7d40da8e-e934-4e13-b5f2-08fd41474343.png">
