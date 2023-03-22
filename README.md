@@ -141,7 +141,6 @@ Your company is about to launch their newest product, the RoboTasker 5000 (RT500
 <img width="530" alt="Screen Shot 2023-03-21 at 10 10 10 PM" src="https://user-images.githubusercontent.com/127261045/226807648-4e9aa86a-2f0d-4b52-b762-f328159afa86.png">
 
 
-<img width="533" alt="Screen Shot 2023-03-21 at 10 11 05 PM" src="https://user-images.githubusercontent.com/127261045/226807790-7d40da8e-e934-4e13-b5f2-08fd41474343.png">
 
 
 
@@ -152,3 +151,4 @@ https://trello.com/b/oWYx1hX6/robot-app
 
 
 
+[pages-themes-midnight-v0.2.0-2-gc7f251e (2).zip](https://github.com/Makda05/Robo-Tasker-5000/files/11037501/pages-themes-midnight-v0.2.0-2-gc7f251e.2.zip)
