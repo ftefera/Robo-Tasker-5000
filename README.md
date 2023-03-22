@@ -83,8 +83,9 @@
 13.What ingredients do we need for chili and rice?
 
 
+<img width="419" alt="Screen Shot 2023-03-21 at 9 58 28 PM" src="https://user-images.githubusercontent.com/127261045/226806233-bf4837d9-fbd1-40be-b5ed-8181fca42bc3.png">
 
-![garlic-butter-chicken-rice-5](https://user-images.githubusercontent.com/127354647/226792394-8ee7d15c-125e-4393-bfba-cb0e1498e947.jpg)
+
 
 ## **Chef Salad**
 
