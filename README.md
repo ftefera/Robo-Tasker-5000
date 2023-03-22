@@ -1,5 +1,10 @@
 # Robo-Tasker-5000
 
+## **Scenario**
+
+Your company is about to launch their newest product, the RoboTasker 5000 (RT5000), a programmable robot to support families with basic tasks in their household. Our department is tasked with developing a set of tasks that make the robot perform different basic recipes, as part of the pre-installed package for the initial launch.
+
+
 ## **Tuna Fish Sandwich**
 1.What type of bread should we use for a tuna sandwich?
 
@@ -56,7 +61,6 @@
 
 
 
-
 ## **Chili and Rice**
 
 1.How are we cooking the rice? Pot or rice cooker?
@@ -87,6 +91,7 @@
 
 
 <img width="419" alt="Screen Shot 2023-03-21 at 9 58 28 PM" src="https://user-images.githubusercontent.com/127261045/226806233-bf4837d9-fbd1-40be-b5ed-8181fca42bc3.png">
+
 
 
 
