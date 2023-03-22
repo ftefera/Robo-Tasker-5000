@@ -1,5 +1,6 @@
 # Robo-Tasker-5000
-Tuna Fish sandwich 
+
+## Tuna Fish sandwich 
 What type of bread should we use for a tuna sandwich?
 Is the tuna cooked first?
 What type of tuna?canned/fresh
@@ -27,7 +28,8 @@ Is the chicken soup gluten-free?
 ![Chicken-and-Rice-Soup-blog-4](https://user-images.githubusercontent.com/127354647/226792055-8421d939-a21d-4ff5-a5b1-ec00187581a3.jpg)
 
 
-##Chili and rice13
+## Chili and rice13
+
 How are we cooking the rice? Pot or rice cooker?
 Is rice cooked separately from chili and then added together?
 What kind of broth are we using for chili?
@@ -43,7 +45,7 @@ Canned beans or dry beans?
 What ingredients do we need for chili and rice?
 ![garlic-butter-chicken-rice-5](https://user-images.githubusercontent.com/127354647/226792394-8ee7d15c-125e-4393-bfba-cb0e1498e947.jpg)
 
-##Chef Salad 10
+## Chef Salad 10
 How are we cooking the rice? Pot or rice cooker?
 What type of salad do we use for the chef's salad?
 What type of croutons should we use for the chef's salad?
