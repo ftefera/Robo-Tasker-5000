@@ -149,4 +149,6 @@ Your company is about to launch their newest product, the RoboTasker 5000 (RT500
 ### **Trello Link**
 https://trello.com/b/oWYx1hX6/robot-app
 
+pages-themes/slate@v0.2.0
+plugins:- jekyll-remote-theme #
 
