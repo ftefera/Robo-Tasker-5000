@@ -11,7 +11,7 @@
 8.Toasted bread or not toasted bread?
 9Is it gluten-free?
 10.Do you want anything on the side?
-![tuna-salad-sandwich](https://user-images.githubusercontent.com/127354647/226791658-5b01d1fb-2671-4e95-9394-33d8443a3753.jpg)
+
 
 ## Chicken soup 11
 1.What oil are we cooking with? (chicken soup and chili)
