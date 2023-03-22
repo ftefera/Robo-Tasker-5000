@@ -7,6 +7,10 @@ If canned tuna, in water or oil?
 What kind of spices should we use for tuna sandwitch?
 Are we using farmed or wild fish?
 What kind of condiments do we add?
+Toasted bread or no tosted bread?
+Is it gluten free?
+Do you want anythingon the side?
+
 
 Chicken soup 11
 What oil are we cooking with? (chicken soup and chili)
@@ -36,7 +40,7 @@ Should we use specific rice?
 Canned beans or dry beans?
 What ingredients do we need for chili and rice?
 
-Chef Salad 9
+Chef Salad 10
 what type of salad do we use for the chef's salad?
 What type of croutons should we use for chef's salad?
 How many eggs will be used for the chef's salad?
@@ -46,3 +50,4 @@ What kind of spices should we use for chef's salad?
 What ingredients do we need for chef salads?
 Is it gluten free?
 Is it vegitaninan friendly?
+What kind of fruits do you want in yor salad?
