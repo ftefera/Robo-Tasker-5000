@@ -1,5 +1,5 @@
 # Robo-Tasker-5000
-##Tuna Fish sandwich 
+Tuna Fish sandwich 
 What type of bread should we use for a tuna sandwich?
 Is the tuna cooked first?
 What type of tuna?canned/fresh
@@ -12,7 +12,7 @@ Is it gluten-free?
 Do you want anything on the side?
 ![tuna-salad-sandwich](https://user-images.githubusercontent.com/127354647/226791658-5b01d1fb-2671-4e95-9394-33d8443a3753.jpg)
 
-##Chicken soup 11
+## Chicken soup 11
 What oil are we cooking with? (chicken soup and chili)
 At what temperature do we cook the chicken?
 What type of broth should we use in the chicken soup?
