@@ -52,6 +52,9 @@
 11.Is the chicken soup gluten-free?
 
 
+<img width="373" alt="Screen Shot 2023-03-21 at 9 56 37 PM" src="https://user-images.githubusercontent.com/127261045/226806021-6a95a302-833e-49ee-8857-a44adb7e335b.png">
+
+
 
 
 ## **Chili and Rice**
