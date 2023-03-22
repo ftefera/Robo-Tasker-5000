@@ -11,7 +11,9 @@
 8.Toasted bread or not toasted bread?
 9Is it gluten-free?
 10.Do you want anything on the side?
-![tuna-salad-sandwich](https://user-images.githubusercontent.com/127354647/226791658-5b01d1fb-2671-4e95-9394-33d8443a3753.jpg)
+<img width="330" alt="Screen Shot 2023-03-21 at 9 39 03 PM" src="https://user-images.githubusercontent.com/127261045/226803773-c5a828fd-f491-4654-be88-e5b2aae7455d.png">
+
+
 
 ## Chicken soup 11
 1.What oil are we cooking with? (chicken soup and chili)
@@ -25,7 +27,8 @@
 9.Do you want extra veggies in your soup?
 10.How many calories are in one serving?
 11.Is the chicken soup gluten-free?
-![Chicken-and-Rice-Soup-blog-4](https://user-images.githubusercontent.com/127354647/226792055-8421d939-a21d-4ff5-a5b1-ec00187581a3.jpg)
+
+
 
 
 ## Chili and rice13
